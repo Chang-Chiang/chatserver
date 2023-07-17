@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/mnt/e/_cc/GitHub/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/mnt/e/_cc/GitHub/chatserver/include -I/mnt/e/_cc/GitHub/chatserver/include/server -I/mnt/e/_cc/GitHub/chatserver/include/server/db -I/mnt/e/_cc/GitHub/chatserver/include/server/model -I/mnt/e/_cc/GitHub/chatserver/include/server/redis -I/mnt/e/_cc/GitHub/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /mnt/e/_cc/GitHub/chatserver/src/server/chatserver.cpp",
+  "file": "/mnt/e/_cc/GitHub/chatserver/src/server/chatserver.cpp"
+},
+{
+  "directory": "/mnt/e/_cc/GitHub/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/mnt/e/_cc/GitHub/chatserver/include -I/mnt/e/_cc/GitHub/chatserver/include/server -I/mnt/e/_cc/GitHub/chatserver/include/server/db -I/mnt/e/_cc/GitHub/chatserver/include/server/model -I/mnt/e/_cc/GitHub/chatserver/include/server/redis -I/mnt/e/_cc/GitHub/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /mnt/e/_cc/GitHub/chatserver/src/server/chatservice.cpp",
+  "file": "/mnt/e/_cc/GitHub/chatserver/src/server/chatservice.cpp"
+},
+{
+  "directory": "/mnt/e/_cc/GitHub/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/mnt/e/_cc/GitHub/chatserver/include -I/mnt/e/_cc/GitHub/chatserver/include/server -I/mnt/e/_cc/GitHub/chatserver/include/server/db -I/mnt/e/_cc/GitHub/chatserver/include/server/model -I/mnt/e/_cc/GitHub/chatserver/include/server/redis -I/mnt/e/_cc/GitHub/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/main.cpp.o -c /mnt/e/_cc/GitHub/chatserver/src/server/main.cpp",
+  "file": "/mnt/e/_cc/GitHub/chatserver/src/server/main.cpp"
+},
+{
+  "directory": "/mnt/e/_cc/GitHub/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/mnt/e/_cc/GitHub/chatserver/include -I/mnt/e/_cc/GitHub/chatserver/include/server -I/mnt/e/_cc/GitHub/chatserver/include/server/db -I/mnt/e/_cc/GitHub/chatserver/include/server/model -I/mnt/e/_cc/GitHub/chatserver/include/server/redis -I/mnt/e/_cc/GitHub/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /mnt/e/_cc/GitHub/chatserver/src/server/db/db.cpp",
+  "file": "/mnt/e/_cc/GitHub/chatserver/src/server/db/db.cpp"
+},
+{
+  "directory": "/mnt/e/_cc/GitHub/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/mnt/e/_cc/GitHub/chatserver/include -I/mnt/e/_cc/GitHub/chatserver/include/server -I/mnt/e/_cc/GitHub/chatserver/include/server/db -I/mnt/e/_cc/GitHub/chatserver/include/server/model -I/mnt/e/_cc/GitHub/chatserver/include/server/redis -I/mnt/e/_cc/GitHub/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/friendmoel.cpp.o -c /mnt/e/_cc/GitHub/chatserver/src/server/model/friendmoel.cpp",
+  "file": "/mnt/e/_cc/GitHub/chatserver/src/server/model/friendmoel.cpp"
+},
+{
+  "directory": "/mnt/e/_cc/GitHub/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/mnt/e/_cc/GitHub/chatserver/include -I/mnt/e/_cc/GitHub/chatserver/include/server -I/mnt/e/_cc/GitHub/chatserver/include/server/db -I/mnt/e/_cc/GitHub/chatserver/include/server/model -I/mnt/e/_cc/GitHub/chatserver/include/server/redis -I/mnt/e/_cc/GitHub/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /mnt/e/_cc/GitHub/chatserver/src/server/model/groupmodel.cpp",
+  "file": "/mnt/e/_cc/GitHub/chatserver/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/mnt/e/_cc/GitHub/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/mnt/e/_cc/GitHub/chatserver/include -I/mnt/e/_cc/GitHub/chatserver/include/server -I/mnt/e/_cc/GitHub/chatserver/include/server/db -I/mnt/e/_cc/GitHub/chatserver/include/server/model -I/mnt/e/_cc/GitHub/chatserver/include/server/redis -I/mnt/e/_cc/GitHub/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /mnt/e/_cc/GitHub/chatserver/src/server/model/offlinemessagemodel.cpp",
+  "file": "/mnt/e/_cc/GitHub/chatserver/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/mnt/e/_cc/GitHub/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/mnt/e/_cc/GitHub/chatserver/include -I/mnt/e/_cc/GitHub/chatserver/include/server -I/mnt/e/_cc/GitHub/chatserver/include/server/db -I/mnt/e/_cc/GitHub/chatserver/include/server/model -I/mnt/e/_cc/GitHub/chatserver/include/server/redis -I/mnt/e/_cc/GitHub/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /mnt/e/_cc/GitHub/chatserver/src/server/model/usermodel.cpp",
+  "file": "/mnt/e/_cc/GitHub/chatserver/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/mnt/e/_cc/GitHub/chatserver/build/src/server",
+  "command": "/usr/bin/g++  -I/mnt/e/_cc/GitHub/chatserver/include -I/mnt/e/_cc/GitHub/chatserver/include/server -I/mnt/e/_cc/GitHub/chatserver/include/server/db -I/mnt/e/_cc/GitHub/chatserver/include/server/model -I/mnt/e/_cc/GitHub/chatserver/include/server/redis -I/mnt/e/_cc/GitHub/chatserver/thirdparty -g -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /mnt/e/_cc/GitHub/chatserver/src/server/redis/redis.cpp",
+  "file": "/mnt/e/_cc/GitHub/chatserver/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/mnt/e/_cc/GitHub/chatserver/build/src/client",
+  "command": "/usr/bin/g++  -I/mnt/e/_cc/GitHub/chatserver/include -I/mnt/e/_cc/GitHub/chatserver/include/server -I/mnt/e/_cc/GitHub/chatserver/include/server/db -I/mnt/e/_cc/GitHub/chatserver/include/server/model -I/mnt/e/_cc/GitHub/chatserver/include/server/redis -I/mnt/e/_cc/GitHub/chatserver/thirdparty -g -g -o CMakeFiles/ChatClient.dir/main.cpp.o -c /mnt/e/_cc/GitHub/chatserver/src/client/main.cpp",
+  "file": "/mnt/e/_cc/GitHub/chatserver/src/client/main.cpp"
+}
+]

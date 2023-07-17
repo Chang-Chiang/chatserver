@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "c++17", // "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}
+// F1 -> C/C++ Edit Configurations(JSON)
+// gcc -I头文件搜索路径 -L库文件搜索路径 -l库名称
+// 头文件搜索路径 /usr/include /usr/local/include 一般为系统默认搜索路径
+// 库文件搜索路径 /usr/lib /usr/local/lib
